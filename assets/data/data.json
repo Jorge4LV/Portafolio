@@ -33,7 +33,12 @@
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
         }
+
     ],
     "experience": [
         {
