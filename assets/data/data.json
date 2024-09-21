@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Jorge Alberto (JorgeALV) | Portafolio",
+    "description": "Soy Jorge. Este es una prueba de mis mejores intentos de forma autodidacta, pero aún así me he exigido demasiado.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Jorge Alberto (Neo)",
+    "skill": "Programador, Tester y ya",
+    "location": "Mexico",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "jorgealv@methdev.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/thomasanderson",
         "likedin": "https://linkedin.com/in/thomasanderson"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un programador que ha intentado ir por su camino de forma autodidacta para llevar el ritmo que yo más prefiera. Estos proyectos contienen mi sudor y alma en cada una de sus lineas.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
