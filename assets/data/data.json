@@ -75,17 +75,17 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Discord Bot",
+            "subtitle": "Bot multiusos, administrativo y útil ",
+            "description": "Este es un bot para Discord que se encarga de juntar las funcionalidades más conocidas y necesarias en un servidor en un solo situo.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-json-plain",
+                    "name": "Json"
                 }
             ],
             "image": "/project_1.jpg",
@@ -94,9 +94,9 @@
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "Sistema de Gestión POS",
+            "subtitle": "Un simple sistema de gestión POS",
+            "description": "Este sistema simplifica y automatiza la mayoría de tareas necesarias a hacer en un POS, el único trabajo requerido por mano humana en este sistema es el de verificación ",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
@@ -129,20 +129,20 @@
     "extras": [
         {
             "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
+            "title": "Discord Bug Bounty",
+            "description": "He sido parte del Bounty de Discord",
             "url": "https://en.wikipedia.org/wiki/The_Matrix"
         },
         {
             "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
+            "title": "MethDev Team",
+            "description": "Equipo al que pertenezco y con el cual he colaborado en varios proyecto grupales.",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
         },
         {
             "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
+            "title": "Aún aprendiendo ",
+            "description": "Aún estoy aprendiendo cada vez mas",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
         }
     ]
