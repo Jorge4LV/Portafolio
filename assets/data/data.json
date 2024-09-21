@@ -37,7 +37,23 @@
         {
             "icon": "devicon-java-plain",
             "name": "Java"
-        }
+        },
+        {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+        },
+        {
+            "icon": "devicon-discordjs-plain",
+            "name": "DiscordJS"
+        },
+        {
+            "icon": "devicon-json-plain",
+            "name": "Json"
+        },
+        {
+            "icon": "devicon-android-plain",
+            "name": "Android"
+        },
 
     ],
     "experience": [
